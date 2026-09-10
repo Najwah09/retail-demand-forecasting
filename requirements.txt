@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+prophet
+lightgbm
+google-cloud-bigquery
+db-dtypes
+pyarrow
+sqlalchemy
+jupyter
+streamlit
+plotly
